@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 28 08:36:17 2025
 
-@author: xuzikang
 """
-import my ode
+
 from mymath import EA_math
 # create a function
 def is_valid_integer(value):

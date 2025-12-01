@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 28 08:31:52 2025
 
-@author: xuzikang
 """
 class EA_math:
     # create a and b
